@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **DSA,Web development**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/deekshith-shettigar](www.linkedin.com/in/deekshith-shettigar)
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/ deekshith-shettigar](www.linkedin.com/in/ deekshith-shettigar)
 
 - 💬 Ask me about **C,HTML,CSS,Javascript,Java**
 
